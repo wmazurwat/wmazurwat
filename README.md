@@ -4,7 +4,7 @@
 ## I'm a JS Developer!
 
 - 🔭 I’m currently using React Native
-- 🥅 2020 Goals: Work more, code more, learn more :)
+- 🥅 2021 Goals: Work more, code more, learn more :)
 
 ### Github stats.
 
@@ -12,7 +12,7 @@
 
 ### Pinned repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmazurwat&repo=JS_ML&theme=great-gatsby&show_icons=true)](https://github.com/wmazurwat/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmazurwat&repo=JS_ML&theme=great-gatsby&show_icons=true)](https://github.com/wmazurwat/CV)
 
 ### Connect with me:
 
