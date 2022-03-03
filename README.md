@@ -3,8 +3,8 @@
 
 ## I'm a JS Developer!
 
-- 🔭 I’m currently using React Native
-- 🥅 2021 Goals: Work more, code more, learn more :)
+- 🔭 I’m currently learning React
+- 🥅 2022 Goals: Work more, code more, learn more :)
 
 ### Github stats.
 
