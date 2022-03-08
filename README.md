@@ -12,7 +12,7 @@
 
 ### Pinned repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmazurwat&repo=JS_ML&theme=great-gatsby&show_icons=true)](https://github.com/wmazurwat/CV)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmazurwat&repo=CV&theme=great-gatsby&show_icons=true)](https://github.com/wmazurwat/CV)
 
 ### Connect with me:
 
