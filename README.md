@@ -4,11 +4,7 @@
 ## I'm a JS Developer!
 
 - 🔭 I’m currently learning React
-- 🥅 2022 Goals: Work more, code more, learn more :)
-
-### Github stats.
-
-[![Wojciech Mazur's github stats](https://github-readme-stats.vercel.app/api?username=wmazurwat&theme=great-gatsby&show_icons=true)](https://github.com/wmazurwat)
+- 🥅 2023 Goals: Work more, code more, learn more :)
 
 ### Pinned repos
 
