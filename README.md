@@ -1,9 +1,9 @@
 ### Hi there, I'm Wojciech Mazur 👋
 
 
-## I'm a JS Developer!
+## I'm a Software Developer!
 
-- 🔭 I’m currently learning React
+- 🔭 I’m currently learning React and .NET
 - 🥅 2023 Goals: Work more, code more, learn more :)
 
 ### Pinned repos
