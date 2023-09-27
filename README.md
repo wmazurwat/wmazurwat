@@ -3,7 +3,7 @@
 
 ## I'm a Software Developer!
 
-- 🔭 I’m currently learning React and .NET
+- 🔭 I’m currently learning JavaScript
 - 🥅 2023 Goals: Work more, code more, learn more :)
 
 ### Pinned repos
