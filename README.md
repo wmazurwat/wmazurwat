@@ -3,8 +3,8 @@
 
 ## I'm a Software Developer!
 
-- 🔭 I’m currently learning JavaScript
-- 🥅 2023 Goals: Work more, code more, learn more :)
+- 🔭 I’m currently learning JavaScript and .NET
+- 🥅 2024 Goals: Work more, code more, learn more :)
 
 ### Pinned repos
 
